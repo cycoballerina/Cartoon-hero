@@ -4,7 +4,7 @@ body{
 	font-size: 18px;
 	line-height: 25px;
 }
-
+/*Header Styles*/
 header{
 	background-color: #450C46;
 	text-align: center;
@@ -26,7 +26,13 @@ header img{
 	border:10px solid #ffffff;
 }
 
+h2{
+	font-size: 30px;
+	color: #450C46;
+	margin: 40px 0 10px;
+}
 
+/*Main Elements*/
 main{
 	max-width: 800px;
 	margin:0 auto;
@@ -38,21 +44,17 @@ main img{
 	max-width: 100%;
 }
 
-h2{
-	font-size: 30px;
-	color: #450C46;
-	margin: 40px 0 10px;
-}
-
 a{
 	color:#450C46;
 	font-weight: bold;
 
 }
+
 a:hover{
 	color: #7FB912;
 }
 
+/*Footer Elements*/
 footer{
 	background-color: #450C46;
 	text-align: center;
