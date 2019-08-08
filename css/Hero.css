@@ -53,7 +53,12 @@ a{
 a:hover{
 	color: #7FB912;
 }
-
+blockquote{
+	color:white;
+	background-color:#450C46;
+	padding: 50px;
+	text-align: center;
+}
 /*Footer Elements*/
 footer{
 	background-color: #450C46;
