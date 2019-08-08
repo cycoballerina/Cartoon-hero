@@ -16,6 +16,7 @@ header{
 header h1{
 	color: white;
 	font-size: 90px;
+	text-shadow: 0 4px 50px #bbff0f;
 }
 
 h1,h2{
@@ -25,6 +26,7 @@ h1,h2{
 header img{
 	border-radius: 170px;
 	border:10px solid #ffffff;
+	box-shadow: 0 4px 20px black;
 }
 
 h2{
