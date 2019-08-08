@@ -2,7 +2,8 @@ body{
 	margin: 0;
 	font-family: 'Helvetica', Arial, sans-serif;
 	font-size: 18px;
-	line-height: 25px;
+	line-height: 25px; 
+
 }
 /*Header Styles*/
 header{
@@ -14,7 +15,7 @@ header{
 
 header h1{
 	color: white;
-	font-size: 80px;
+	font-size: 90px;
 }
 
 h1,h2{
@@ -54,9 +55,10 @@ a:hover{
 	color: #7FB912;
 }
 blockquote{
-	color:white;
-	background-color:#450C46;
-	padding: 50px;
+	color: #7FB912;
+	display: block;
+	font-size: 40px;
+	line-height: 60px;
 	text-align: center;
 }
 /*Footer Elements*/
